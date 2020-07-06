@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2020-07-04UTC07:47:560">
+        <header>
+            <authorName>Gal Dubinski</authorName>
+            <authorEmail>contact@poptin.com</authorEmail>
+        </header>
+        <body>
+            <trans-unit id="backend_layout.example">
+                <source>Example</source>
+            </trans-unit>
+            <trans-unit id="backend_layout.column.normal">
+                <source>Normal</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

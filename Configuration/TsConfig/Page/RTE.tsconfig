@@ -1,0 +1,8 @@
+#############
+#### RTE ####
+#############
+RTE {
+    default {
+        preset = poptin_smart_popups_and_forms
+    }
+}

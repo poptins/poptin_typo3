@@ -1,0 +1,7 @@
+#
+# PageTS for Poptin - Smart Popups and Contact Forms
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:poptin_smart_popups_and_forms/Configuration/TsConfig/Page/RTE.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:poptin_smart_popups_and_forms/Configuration/TsConfig/Page/TCEFORM.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:poptin_smart_popups_and_forms/Configuration/TsConfig/Page/TCEMAIN.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:poptin_smart_popups_and_forms/Configuration/TsConfig/Page/Mod/WebLayout/BackendLayouts.tsconfig">
