@@ -13,8 +13,8 @@ page {
         fileInverted = EXT:poptin_smart_popups_and_forms/Resources/Public/Images/logo-inverted.svg
         height = 52
         width = 192
-        alt = Poptin - Smart Popups and Contact Forms
-        linktitle = Poptin - Smart Popups and Contact Forms
+        alt = Poptin: Pop ups, Contact Forms & Exit Intent Popups
+        linktitle = Poptin: Pop ups, Contact Forms & Exit Intent Popups
     }
     favicon {
         file = EXT:poptin_smart_popups_and_forms/Resources/Public/Icons/favicon.ico
