@@ -1,4 +1,4 @@
-Sitepackage for the project "Poptin - Smart Popups and Contact Forms"
+Sitepackage for the project "Poptin: Pop ups, Contact Forms & Exit Intent Popups"
 ==============================================================
 
 Add some explanation here.
