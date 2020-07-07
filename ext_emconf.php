@@ -27,5 +27,5 @@ $EM_CONF[$_EXTKEY] = [
     'author' => 'Gal Dubinski',
     'author_email' => 'contact@poptin.com',
     'author_company' => 'Poptin LTD',
-    'version' => '1.0.0',
+    'version' => '1.0.1',
 ];
