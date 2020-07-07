@@ -14,6 +14,6 @@ call_user_func(function()
     \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::registerPageTSConfigFile(
         $extensionKey,
         'Configuration/TsConfig/Page/All.tsconfig',
-        'Poptin - Smart Popups and Contact Forms'
+        'Poptin: Pop ups, Contact Forms & Exit Intent Popups'
     );
 });
