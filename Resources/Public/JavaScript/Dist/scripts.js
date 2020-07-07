@@ -1,5 +1,5 @@
 /*!
- * Poptin - Smart Popups and Contact Forms v1.0.0 (https://www.poptin.com/)
+ * Poptin: Pop ups, Contact Forms & Exit Intent Popups v1.0.0 (https://www.poptin.com/)
  * Copyright 2017-2020 Gal Dubinski
  * Licensed under the GPL-2.0-or-later license
  */
