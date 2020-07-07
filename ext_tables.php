@@ -13,7 +13,7 @@ defined('TYPO3_MODE') || die();
        [
            'access' => 'admin',
            'icon'   => 'EXT:poptin_smart_popups_and_forms/Resources/Public/Icons/favicon.png',
-           'labels' => 'Poptin Smart Popups And Contact Forms',
+           'labels' => 'Poptin: Pop ups, Contact Forms, and Exit Intent Popups',
             'navigationComponentId' => '', 
             'inheritNavigationComponentFromMainModule' => false
        ]
